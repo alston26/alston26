@@ -1,5 +1,5 @@
 
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 👋
 
 ## About Me
 Hi, I'm Alston! I'm a rising college Junior currently residing in the United States.
