@@ -22,6 +22,7 @@ I enjoy contributing to impactful projects. One of my notable projects is Starvi
 I frequently deal with configuration settings related to hardware design and simulations.
 
 ## Projects
+
 # Starving Mammoth: 
 
 An app to reduce food waste on campus by allowing students to share the locations of leftover food from events. I contributed significantly to the backend development using Java.
