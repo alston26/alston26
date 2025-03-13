@@ -31,9 +31,11 @@ An app to reduce food waste on campus by allowing students to share the location
 
 Check out my repositories for more of my work in software development, neural networks, and simulations.
 
-### Current Project:
+### Current Projects:
 
 I'm currently working on building my personal website and adding interactive elements. The code for that is also in my repository [here](https://github.com/alston26/Personal-Website)
+
+I'm also learning how to parallelize programs with OpenMP and Nvidia CUDA. 
 
 ## Connect with Me
 [LinkedIn](www.linkedin.com/in/alston-chen-993b61183)
