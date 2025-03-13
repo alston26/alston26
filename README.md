@@ -33,7 +33,7 @@ Check out my repositories for more of my work in software development, neural ne
 
 ### Current Project:
 
-I'm currently in a research program working with various PiM simulators and looking to create a framework for creating such simulators. Hopefully, I will be able to create my own simulator by the end of the Summer!
+I'm currently working on building my personal website and adding interactive elements. The code for that is also in my repository [here](https://github.com/alston26/Personal-Website)
 
 ## Connect with Me
 [LinkedIn](www.linkedin.com/in/alston-chen-993b61183)
