@@ -2,12 +2,12 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi, I'm Alston! I'm a rising college Junior currently residing in the United States.
+Hi, I'm Alston! I'm a college Junior currently residing in the United States.
 
 ## Interests
 ### Neural Network Simulators: 
 
-I have a keen interest in simulating spiking neural networks (SNNs) using tools like Nengo, BindsNET, GenericsSNN, SuperNeuro, and EvtSNN.
+I am keenly interested in simulating spiking neural networks (SNNs) using tools like Nengo, BindsNET, GenericsSNN, SuperNeuro, and EvtSNN.
 
 ### Computer Hardware/Architecture Simulators:
 
@@ -29,12 +29,13 @@ An app to reduce food waste on campus by allowing students to share the location
 
 ### Other Projects: 
 
-Check out my repositories to see more of my work in software development, neural networks, and simulations.
+Check out my repositories for more of my work in software development, neural networks, and simulations.
 
 ### Current Project:
 
-I'm currently in a research program working with various PiM simulators and looking to create a framework for creating such simulators. Hopefully, I will be able to create my own simulator by the end the of the Summer!
+I'm currently in a research program working with various PiM simulators and looking to create a framework for creating such simulators. Hopefully, I will be able to create my own simulator by the end of the Summer!
 
 ## Connect with Me
 [LinkedIn](www.linkedin.com/in/alston-chen-993b61183)
+
 Email: achen26@amherst.edu
