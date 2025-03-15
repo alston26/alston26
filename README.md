@@ -29,7 +29,7 @@ An app to reduce food waste on campus by allowing students to share the location
 
 ### Other Projects: 
 
-Check out my repositories for more of my work in software development, neural networks, and simulations.
+Please browse my repositories for more of my work in software development, neural networks, and simulations.
 
 ### Current Projects:
 
