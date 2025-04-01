@@ -27,6 +27,10 @@ I frequently deal with configuration settings related to hardware design and sim
 
 An app to reduce food waste on campus by allowing students to share the locations of leftover food from events. I contributed significantly to the backend development using Java.
 
+### Amherst Lost & Found
+
+An app that serves as a central hub for lost and founds at Amherst College. The app also leverages torchvision image recognition to allow for ease of use. We used Django backend and html, jss, and css frontend.
+
 ### Other Projects: 
 
 Please browse my repositories for more of my work in software development, neural networks, and simulations.
