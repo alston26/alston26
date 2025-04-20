@@ -29,7 +29,7 @@ An app to reduce food waste on campus by allowing students to share the location
 
 ### Amherst Lost & Found
 
-An app that serves as a central hub for lost and founds at Amherst College. The app also leverages torchvision image recognition to allow for ease of use. We used Django backend and html, jss, and css frontend.
+An app that serves as a central hub for lost and founds at Amherst College. The app also leverages torchvision image recognition to allow for ease of use. We used Django backend and html, jss, and css frontend.[here](https://github.com/Tetsuya787/LostandFound)
 
 ### Other Projects: 
 
